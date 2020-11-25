@@ -8,6 +8,7 @@ h1 {
 }
 
 nav{
+  list-style-type: none;
   background-color: lightblue;
   text-align: center;
 }
